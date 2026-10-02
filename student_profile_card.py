@@ -1,0 +1,7 @@
+name = input("name: ").strip().title()
+program = input("program: ").strip().title()
+year = int(input("year of study"))
+print("-----profile-----")
+print(f"name: {name}")
+print(f"program: ")
+print(f"year: {year}")
